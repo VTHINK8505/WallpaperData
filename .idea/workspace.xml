@@ -4,7 +4,214 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d7bb677-2dee-4854-8eb6-8e8d35b6f427" name="Changes" comment="" />
+    <list default="true" id="2d7bb677-2dee-4854-8eb6-8e8d35b6f427" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_10_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_10_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_11_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_11_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_12_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_12_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_13_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_13_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_14_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_14_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_16_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_16_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_17_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_17_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_18_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_18_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_19_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_19_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_20_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_20_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_21_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_21_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_22_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_22_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_23_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_23_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_24_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_24_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_25_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_25_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_26_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_26_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_27_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_27_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_28_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_28_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_29_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_29_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_30_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_30_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_31_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_31_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_32_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_32_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_33_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_33_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_34_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_34_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_35_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_35_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_36_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_36_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_37_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_37_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_38_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_38_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_39_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_39_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_40_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_40_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_41_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_41_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_42_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_42_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_43_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_43_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_44_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_44_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_45_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_45_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_46_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_46_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_47_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_47_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_48_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_48_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_49_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_49_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_50_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_50_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_51_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_51_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_52_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_52_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_9_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/Thumbnail/dual_9_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_10_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_10_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_11_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_11_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_12_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_12_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_13_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_13_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_14_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_14_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_16_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_16_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_17_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_17_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_18_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_18_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_19_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_19_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_20_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_20_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_21_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_21_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_22_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_22_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_23_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_23_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_24_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_24_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_25_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_25_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_26_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_26_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_27_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_27_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_28_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_28_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_29_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_29_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_30_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_30_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_31_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_31_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_32_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_32_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_33_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_33_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_34_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_34_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_35_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_35_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_36_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_36_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_37_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_37_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_38_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_38_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_39_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_39_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_40_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_40_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_41_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_41_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_42_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_42_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_43_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_43_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_44_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_44_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_45_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_45_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_46_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_46_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_47_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_47_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_48_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_48_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_49_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_49_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_50_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_50_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_51_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_51_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_52_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_52_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_9_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallpaper/Double/wallpaper/dual_9_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallpaper/data_double.json" beforeDir="false" afterPath="$PROJECT_DIR$/wallpaper/data_double.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,24 +233,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/visha/StudioProjects/wallpaper/wallpaper/Double/Thumbnail",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/visha/StudioProjects/wallpaper/wallpaper/Double/Thumbnail&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\visha\StudioProjects\wallpaper\wallpaper\Double\Thumbnail" />
+      <recent name="C:\Users\visha\StudioProjects\wallpaper\wallpaper\Double\wallpaper" />
       <recent name="C:\Users\visha\StudioProjects\wallpaper\wallpaper\Double" />
       <recent name="C:\Users\visha\StudioProjects\wallpaper\wallpaper" />
     </key>

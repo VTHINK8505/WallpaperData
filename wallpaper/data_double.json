@@ -1,52 +1,605 @@
 {
   "data": [
     {
-      "id": 0,
-      "name": "Smiley",
-      "media": {
-        "image": {
-          "lockscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/Thumbnail\/Dual_Wallpaper_1_0.png",
-          "mainscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double/Thumbnail\/Dual_Wallpaper_1_1.png",
-          "lockscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_0.png",
-          "mainscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_1.png"
-        }
-      }
-    },
-    {
       "id": 1,
-      "name": "Smiley",
+      "name": "Dual_Wallpaper_1_1",
       "media": {
         "image": {
-          "lockscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/Thumbnail\/Dual_Wallpaper_1_0.png",
-          "mainscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double/Thumbnail\/Dual_Wallpaper_1_1.png",
-          "lockscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_0.png",
-          "mainscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_1.png"
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_1_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_1_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_1_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_1_1.png"
         }
       }
     },
     {
       "id": 2,
-      "name": "Smiley",
+      "name": "Dual_Wallpaper_2_1",
       "media": {
         "image": {
-          "lockscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/Thumbnail\/Dual_Wallpaper_1_0.png",
-          "mainscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double/Thumbnail\/Dual_Wallpaper_1_1.png",
-          "lockscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_0.png",
-          "mainscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_1.png"
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_2_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_2_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_2_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_2_1.png"
         }
       }
     },
     {
       "id": 3,
-      "name": "Smiley",
+      "name": "Dual_Wallpaper_3_1",
       "media": {
         "image": {
-          "lockscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/Thumbnail\/Dual_Wallpaper_1_0.png",
-          "mainscreen_thumb": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double/Thumbnail\/Dual_Wallpaper_1_1.png",
-          "lockscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_0.png",
-          "mainscreen": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Double\/wallpaper\/Dual_Wallpaper_1_1.png"
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_3_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_3_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_3_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_3_1.png"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dual_Wallpaper_4_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_4_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_4_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_4_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_4_1.png"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dual_Wallpaper_5_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_5_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_5_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_5_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_5_1.png"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Dual_Wallpaper_6_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_6_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_6_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_6_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_6_1.png"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dual_Wallpaper_7_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_7_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_7_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_7_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_7_1.png"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Dual_Wallpaper_8_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_8_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_8_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_8_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_8_1.png"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Dual_Wallpaper_9_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_9_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_9_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_9_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_9_1.png"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Dual_Wallpaper_10_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_10_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_10_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_10_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_10_1.png"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Dual_Wallpaper_11_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_11_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_11_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_11_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_11_1.png"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Dual_Wallpaper_12_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_12_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_12_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_12_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_12_1.png"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Dual_Wallpaper_13_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_13_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_13_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_13_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_13_1.png"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Dual_Wallpaper_14_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_14_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_14_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_14_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_14_1.png"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Dual_Wallpaper_15_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_15_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_15_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_15_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_15_1.png"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name": "Dual_Wallpaper_16_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_16_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_16_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_16_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_16_1.png"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name": "Dual_Wallpaper_17_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_17_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_17_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_17_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_17_1.png"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Dual_Wallpaper_18_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_18_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_18_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_18_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_18_1.png"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "Dual_Wallpaper_19_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_19_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_19_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_19_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_19_1.png"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "Dual_Wallpaper_20_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_20_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_20_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_20_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_20_1.png"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name": "Dual_Wallpaper_21_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_21_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_21_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_21_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_21_1.png"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "Dual_Wallpaper_22_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_22_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_22_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_22_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_22_1.png"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "Dual_Wallpaper_3_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_23_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_23_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_23_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_23_1.png"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "name": "Dual_Wallpaper_24_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_24_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_24_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_24_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_24_1.png"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name": "Dual_Wallpaper_25_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_25_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_25_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_25_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_25_1.png"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name": "Dual_Wallpaper_26_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_26_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_26_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_26_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_26_1.png"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "name": "Dual_Wallpaper_27_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_27_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_27_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_27_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_27_1.png"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name": "Dual_Wallpaper_28_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_28_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_28_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_28_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_28_1.png"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "name": "Dual_Wallpaper_29_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_29_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_29_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_29_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_29_1.png"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "name": "Dual_Wallpaper_30_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_30_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_30_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_30_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_30_1.png"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "name": "Dual_Wallpaper_31_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_31_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_31_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_31_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_31_1.png"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "name": "Dual_Wallpaper_32_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_32_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_32_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_32_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_32_1.png"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name": "Dual_Wallpaper_33_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_33_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_33_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_33_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_33_1.png"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "name": "Dual_Wallpaper_34_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_34_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_34_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_34_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_34_1.png"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name": "Dual_Wallpaper_35_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_35_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_35_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_35_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_35_1.png"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "name": "Dual_Wallpaper_36_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_36_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_36_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_36_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_36_1.png"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "name": "Dual_Wallpaper_37_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_37_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_37_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_37_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_37_1.png"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name": "Dual_Wallpaper_38_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_38_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_38_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_38_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_38_1.png"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "name": "Dual_Wallpaper_39_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_39_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_39_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_39_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_39_1.png"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "name": "Dual_Wallpaper_40_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_40_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_40_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_40_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_40_1.png"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "name": "Dual_Wallpaper_41_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_41_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_41_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_41_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_41_1.png"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "name": "Dual_Wallpaper_42_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_42_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_42_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_42_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_42_1.png"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "name": "Dual_Wallpaper_43_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_43_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_43_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_43_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_43_1.png"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "name": "Dual_Wallpaper_44_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_44_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_44_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_44_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_44_1.png"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "name": "Dual_Wallpaper_45_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_45_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_45_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_45_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_45_1.png"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "name": "Dual_Wallpaper_46_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_46_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_46_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_46_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_46_1.png"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "name": "Dual_Wallpaper_47_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_47_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_47_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_47_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_47_1.png"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "name": "Dual_Wallpaper_48_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_48_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_48_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_48_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_48_1.png"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "name": "Dual_Wallpaper_49_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_49_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_49_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_49_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_49_1.png"
+        }
+      }
+    },
+    {
+      "id": 50,
+      "name": "Dual_Wallpaper_50_1",
+      "media": {
+        "image": {
+          "lockscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_50_0.png",
+          "mainscreen_thumb": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/Thumbnail/dual_50_1.png",
+          "lockscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_50_0.png",
+          "mainscreen": "https://raw.githubusercontent.com/VTHINK8505/WallpaperData/main/wallpaper/Double/wallpaper/dual_50_1.png"
         }
       }
     }
   ]
+
 }
