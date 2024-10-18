@@ -5497,20 +5497,7 @@
             "category": "Animal",
             "types": ["images"]
         },
-        {
-            "id": 453,
-            "name": "mj Hyper realistic full body portrait of a lady with",
-            "media": {
-                "image": {
-                    "large": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Images\/453.png",
-                    "thumbnail": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Thumbnail\/453.png"
-                },
-                "zip_file": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Files\/453.zip"
-            },
-            "category": "People",
-            "types": ["files", "images"],
-            "transition": "75 50 25"
-        },
+
         {
             "id": 454,
             "name": "Weapons",
@@ -12080,18 +12067,6 @@
             "types": ["images"]
         },
         {
-            "id": 994,
-            "name": "ghostly blue spirit fox 8K Unreal Engin",
-            "media": {
-                "image": {
-                    "large": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Images\/994.png",
-                    "thumbnail": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Thumbnail\/994.png"
-                }
-            },
-            "category": "Animal",
-            "types": ["images"]
-        },
-        {
             "id": 995,
             "name": "castleMany flowersA few purple rosesclouds",
             "media": {
@@ -14309,18 +14284,6 @@
                 }
             },
             "category": "Animal",
-            "types": ["images"]
-        },
-        {
-            "id": 1180,
-            "name": "Lord",
-            "media": {
-                "image": {
-                    "large": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Images\/1180.png",
-                    "thumbnail": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Thumbnail\/1180.png"
-                }
-            },
-            "category": "Movies",
             "types": ["images"]
         },
         {
@@ -16897,18 +16860,7 @@
             "category": "Girls",
             "types": ["images"]
         },
-        {
-            "id": 1395,
-            "name": "of fire character crown made of flames phot",
-            "media": {
-                "image": {
-                    "large": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Images\/1395.png",
-                    "thumbnail": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Thumbnail\/1395.png"
-                }
-            },
-            "category": "Girls",
-            "types": ["images"]
-        },
+
         {
             "id": 1396,
             "name": "Bohemian Waxwing bird Bombycilla garrulu",
@@ -17345,18 +17297,7 @@
             "category": "Artistic",
             "types": ["images"]
         },
-        {
-            "id": 1432,
-            "name": "dragon by Katsushika Hokusai Pete Mohrbac",
-            "media": {
-                "image": {
-                    "large": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Images\/1432.png",
-                    "thumbnail": "https:\/\/raw.githubusercontent.com\/VTHINK8505\/WallpaperData\/main\/wallpaper\/Thumbnail\/1432.png"
-                }
-            },
-            "category": "Artistic",
-            "types": ["images"]
-        },
+
         {
             "id": 1433,
             "name": "cat hybrid",
